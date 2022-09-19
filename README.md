@@ -1,4 +1,4 @@
-# URl- Shortener
+# URL- Shortener
 
 ## shortener-Url
 <p>I have created a (mini) shorten-URL.this is basically a link management platform that lets you harness the power of your links by shortening, sharing, managing, and analyzing links to your content.
